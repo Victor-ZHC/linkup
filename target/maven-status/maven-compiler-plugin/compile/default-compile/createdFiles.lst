@@ -1,6 +1,0 @@
-com\Victor\service\GameService.class
-com\Victor\model\Difficulty.class
-com\Victor\controller\MainController.class
-com\Victor\model\PlayInfo.class
-com\Victor\model\Matrix.class
-com\Victor\service\MatrixService.class
